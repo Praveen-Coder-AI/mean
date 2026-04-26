@@ -57,3 +57,34 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+#### MEAN Stack
+
+## Angular
+What is Angular
+A Clint side frame work which allows you to build  single page applications(SPA)
+-Render UI with dynamic data
+-Handle user input
+-Communicate with backend services
+
+## Node 
+A Server Side library - JS on the server side 
+-- listen to requests and send responses
+-- Execute server side logic (Authatication, Pagination)
+-- Interact with databases and files
+
+## Express
+
+A node framework which simpliflies writing server side code and logic
+-- based on node , offers same functionalities
+-- middleware based funnel  requests though functions
+-- including routing 
+
+## Mongo
+ A No Sql databases which store documents in colletions(instead of records in tables as in SQL)
+
+ -- Store application data on server like user data,  product data
+ -- no schema and no relations 
+
